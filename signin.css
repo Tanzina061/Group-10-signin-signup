@@ -11,7 +11,7 @@ h2 {
     color: #333;
 }
 
-/* Form container */
+
 form {
     background-color: white;
     display: inline-block;
@@ -21,13 +21,13 @@ form {
     text-align: left;
 }
 
-/* Labels */
+
 label {
     font-weight: bold;
     color: #555;
 }
 
-/* Input fields */
+
 input[type="email"],
 input[type="password"] {
     width: 250px;
@@ -37,7 +37,7 @@ input[type="password"] {
     border-radius: 5px;
 }
 
-/* Submit button */
+
 input[type="submit"] {
     width: 100%;
     padding: 10px;
@@ -48,18 +48,18 @@ input[type="submit"] {
     cursor: pointer;
 }
 
-/* Button hover effect */
+
 input[type="submit"]:hover {
     background-color: #45a049;
 }
 
-/* Paragraph text */
+
 p {
     margin-top: 20px;
     color: #555;
 }
 
-/* Link styling */
+
 a {
     color: #4CAF50;
     text-decoration: none;
