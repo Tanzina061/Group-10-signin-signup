@@ -19,7 +19,7 @@ node server.js
 
 Retrieves all todos from the database without any filtering.
 
-![Get All Todos](./todo-api/screenshots/getall todos.png)
+![Get All Todos](./todo-api/screenshots/getalltodos.png)
 
 ---
 
@@ -27,7 +27,7 @@ Retrieves all todos from the database without any filtering.
 
 Retrieves todos within a specified ID range (e.g., /todos/1-3).
 
-![Get Todos by Range](./todo-api/screenshots/selective todos.png)
+![Get Todos by Range](./todo-api/screenshots/selectivetodos.png)
 
 ---
 
@@ -35,7 +35,7 @@ Retrieves todos within a specified ID range (e.g., /todos/1-3).
 
 Creates a new todo with title, description, and completion status.
 
-![Create Todo](./todo-api/screenshots/create todo.png)
+![Create Todo](./todo-api/screenshots/createtodo.png)
 
 ---
 
@@ -43,7 +43,7 @@ Creates a new todo with title, description, and completion status.
 
 Updates an existing todo with new information by ID.
 
-![Update Todo](./todo-api/screenshots/update todos.png)
+![Update Todo](./todo-api/screenshots/updatetodos.png)
 
 ---
 
@@ -51,7 +51,7 @@ Updates an existing todo with new information by ID.
 
 Deletes a single todo or range of todos by ID.
 
-![Delete Todo](./todo-api/screenshots/delete todos.png)
+![Delete Todo](./todo-api/screenshots/deletetodos.png)
 
 ---
 
