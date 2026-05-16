@@ -1,6 +1,6 @@
 const express = require('express');
 const app = express();
-
+app.set('json spaces', 2); 
 const PORT = 3001;
 
 app.get('/student', (req, res) => {
